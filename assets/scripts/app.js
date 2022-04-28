@@ -9,7 +9,7 @@ function createSecretHolder(secret) {
     }
 }
 console.log(createSecretHolder(5))
-
+console.dir(1,2,4)
 
 const addMovieModal = document.getElementById('add-modal');
 // const addMovieModal = document.querySelector('#add-modal');
